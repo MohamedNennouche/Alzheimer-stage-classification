@@ -6,7 +6,7 @@
 - Train-notebook : Mise en place du modèle
 
 ## A faire 
-- [ ] Analyse et visualisation des données
+- [x] Analyse et visualisation des données
 - [ ] Préparation des données : 
     - [ ] Filtrage
     - [ ] Equilibrage des classes (suivant différents algorithmes)

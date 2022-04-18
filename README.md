@@ -2,7 +2,7 @@
 - EDA-notebook : Analyse des données et visualisation
 - Prep-notebook : Préparation des données : 
     - Filtrage médian 
-    - Equilibrage des classes (SMOTE)
+    - Equilibrage des classes (SMOTE et autre)
 - Train-notebook : Mise en place du modèle
 
 ## A faire 
